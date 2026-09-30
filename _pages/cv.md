@@ -15,11 +15,11 @@ Education
 ======
 * PhD in Computer Science, Graz University of Technology, March 2022 – present (expected spring 2027)
   * Advisor: Prof. Stefan Mangard
-* MSc in Computer Science, Graz University of Technology, 2019 – 2021
+* MSc in Information and Computer Engineering, Graz University of Technology, 2019 – 2021
   * Thesis: *DRAM Integrity Protection with Efficient Low-Latency Cryptographic Primitives*
   * Student Research Excellence Award, WKO Research Stipend
   * Graduated with distinction
-* BSc in Computer Science, Graz University of Technology, 2015 – 2019
+* BSc in Information and Computer Engineering, Graz University of Technology, 2015 – 2019
   * Thesis: *From Rowhammer to Nethammer – Utilizing Intel CAT to Remotely Induce Bit Flips*
   * Student Research Excellence Award
   * Graduated with distinction
