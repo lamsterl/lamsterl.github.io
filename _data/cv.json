@@ -252,6 +252,13 @@
       "summary": "Martin Unterguggenberger, David Schrammel, Lukas Maar, Lukas Lamster, Vedad Hadžić, and Stefan Mangard"
     },
     {
+      "name": "TME-Box: Scalable In-Process Isolation through Intel TME-MK Memory Encryption",
+      "publisher": "Network and Distributed System Security Symposium (NDSS 2025)",
+      "releaseDate": "2025-02-24",
+      "website": "https://www.ndss-symposium.org/wp-content/uploads/2025-277-paper.pdf",
+      "summary": "Martin Unterguggenberger, Lukas Lamster, David Schrammel, Martin Schwarzl, and Stefan Mangard"
+    },
+    {
       "name": "Defects-in-Depth: Analyzing the Integration of Effective Defenses against One-Day Exploits in Android Kernels",
       "publisher": "33rd USENIX Security Symposium (USENIX Security 2024)",
       "releaseDate": "2024-08-14",
@@ -264,13 +271,6 @@
       "releaseDate": "2024-08-14",
       "website": "https://www.usenix.org/conference/usenixsecurity24/presentation/lamster",
       "summary": "Lukas Lamster, Martin Unterguggenberger, David Schrammel, and Stefan Mangard"
-    },
-    {
-      "name": "TME-Box: Scalable In-Process Isolation through Intel TME-MK Memory Encryption",
-      "publisher": "arXiv preprint arXiv:2407.10740",
-      "releaseDate": "2024-07-15",
-      "website": "https://arxiv.org/abs/2407.10740",
-      "summary": "Martin Unterguggenberger, Lukas Lamster, David Schrammel, Martin Schwarzl, and Stefan Mangard"
     },
     {
       "name": "Memory Tagging using Cryptographic Integrity on Commodity x86 CPUs",
