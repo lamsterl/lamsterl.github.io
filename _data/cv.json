@@ -1,0 +1,386 @@
+{
+  "basics": {
+    "name": "Lukas Lamster",
+    "email": "lukas.lamster@tugraz.at",
+    "phone": "",
+    "website": "https://lamsterl.github.io",
+    "summary": "PhD student at the Institute of Information Security (ISEC), Graz University of Technology. Security researcher focusing on improving runtime security through novel hardware-based mechanisms, in particular the combination of memory integrity protection with tagged memory architectures.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Graz",
+      "countryCode": "AT",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=f_sbEjUAAAAJ&hl=en&oi=ao"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0003-4046-8727",
+        "url": "https://orcid.org/0000-0003-4046-8727"
+      },
+      {
+        "network": "GitHub",
+        "username": "lamsterl",
+        "url": "https://github.com/lamsterl"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Institute of Information Security (ISEC), Graz University of Technology",
+      "position": "Doctoral Researcher",
+      "website": "https://www.isec.tugraz.at/",
+      "startDate": "2022-03-01",
+      "endDate": "",
+      "summary": "Exploring combinations of DRAM integrity protection and memory tagging; developing novel hardware-based runtime security mechanisms.",
+      "highlights": [
+        "Exploring combinations of DRAM integrity protection and memory tagging",
+        "Developing novel hardware-based runtime security mechanisms",
+        "Multiple contributions towards memory safety, efficient memory tagging, and DRAM integrity protection schemes"
+      ]
+    },
+    {
+      "company": "Cloudflare",
+      "position": "Software Development Intern",
+      "website": "https://www.cloudflare.com/",
+      "startDate": "2026-03-01",
+      "endDate": "2026-06-30",
+      "summary": "Lisbon, Portugal",
+      "highlights": [
+        "Researching Rowhammer on large-scale computing infrastructure",
+        "Researching side channels and timers in Worker and Container products"
+      ]
+    },
+    {
+      "company": "Institute of Information Security (ISEC), Graz University of Technology",
+      "position": "Research Intern",
+      "website": "https://www.isec.tugraz.at/",
+      "startDate": "2019-07-01",
+      "endDate": "2019-09-30",
+      "summary": "Summer internship",
+      "highlights": [
+        "Improving the reverse engineering of processor-specific DRAM mapping functions"
+      ]
+    },
+    {
+      "company": "AVL",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2018-01-01",
+      "endDate": "2020-12-31",
+      "summary": "Graz, Austria",
+      "highlights": [
+        "Jira plugin development",
+        "Developing compatibility layers for internal tooling"
+      ]
+    },
+    {
+      "company": "Melecs EWS",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2016-01-01",
+      "endDate": "2017-12-31",
+      "summary": "Siegendorf, Austria",
+      "highlights": [
+        "Development of drivers for assembly line equipment",
+        "Quality assurance tool development"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Graz University of Technology",
+      "area": "PhD in Computer Science",
+      "studyType": "PhD",
+      "startDate": "2022-03-01",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Graz University of Technology",
+      "area": "MSc in Computer Science",
+      "studyType": "MSc",
+      "startDate": "2019",
+      "endDate": "2021",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Graz University of Technology",
+      "area": "BSc in Computer Science",
+      "studyType": "BSc",
+      "startDate": "2015",
+      "endDate": "2019",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Distinguished Artifact Reviewer Award",
+      "date": "2025",
+      "awarder": "USENIX Security 2025",
+      "summary": "https://secartifacts.github.io/usenixsec2025/awards#-distinguished-reviewer-awards"
+    },
+    {
+      "title": "WKO Research Stipend, Master's Thesis",
+      "date": "2021",
+      "awarder": "WKO",
+      "summary": ""
+    },
+    {
+      "title": "Student Research Excellence Award, Master's Thesis",
+      "date": "2021",
+      "awarder": "ISEC, Graz University of Technology",
+      "summary": ""
+    },
+    {
+      "title": "Student Research Excellence Award, Bachelor's Thesis",
+      "date": "2019",
+      "awarder": "ISEC, Graz University of Technology",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "C#",
+        "Python",
+        "x86-64 assembly",
+        "RISC-V assembly",
+        "SystemVerilog"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "git",
+        "gdb",
+        "pwndbg",
+        "Docker",
+        "LLM-assisted development",
+        "Ghidra"
+      ]
+    },
+    {
+      "name": "Projects",
+      "level": "",
+      "keywords": [
+        "Linux kernel development",
+        "gem5 development",
+        "qemu",
+        "Spike RISC-V ISA Simulator",
+        "OpenSBI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hardware-based runtime security",
+      "keywords": [
+        "memory tagging",
+        "DRAM integrity protection",
+        "memory safety",
+        "Rowhammer",
+        "side channels"
+      ]
+    }
+  ],
+  "references": [],
+  "publications": [
+    {
+      "name": "Implicit Control-Flow Integrity: Efficient Runtime Security for Embedded Devices",
+      "publisher": "Annual Computer Security Applications Conference (ACSAC 2026), to appear",
+      "releaseDate": "2026-12-07",
+      "website": "",
+      "summary": "Lorenz Schumm, Lukas Lamster, Erik Kraft, Marcel Medwed, and Stefan Mangard"
+    },
+    {
+      "name": "Code Encryption with Intel TME-MK for Control-Flow Enforcement",
+      "publisher": "European Symposium on Research in Computer Security (ESORICS 2025)",
+      "releaseDate": "2025-09-22",
+      "website": "https://tugraz.elsevierpure.com/ws/portalfiles/portal/95304311/Code_Encryption_with_Intel_TME-MK_for_Control-Flow_Enforcement.pdf",
+      "summary": "Martin Unterguggenberger, Lukas Lamster, Mathias Oberhuber, Simon Scherer, and Stefan Mangard"
+    },
+    {
+      "name": "WaitWatcher and WaitGuard: Detecting Flush-Based Cache Side-Channels Through Spurious Wakeups",
+      "publisher": "European Symposium on Research in Computer Security (ESORICS 2025)",
+      "releaseDate": "2025-09-22",
+      "website": "https://tugraz.elsevierpure.com/ws/portalfiles/portal/95282944/main.pdf",
+      "summary": "Lukas Lamster, Fabian Rauscher, Martin Unterguggenberger, and Stefan Mangard"
+    },
+    {
+      "name": "FatPTE: Expanding Page Table Entries for Security",
+      "publisher": "International Conference on Availability, Reliability and Security (ARES 2025)",
+      "releaseDate": "2025-08-11",
+      "website": "https://tugraz.elsevierpure.com/ws/portalfiles/portal/95169857/main.pdf",
+      "summary": "Lukas Lamster, Martin Unterguggenberger, Moritz Waser, David Schrammel, and Stefan Mangard"
+    },
+    {
+      "name": "CHERI UNCHAINED: Generic Instruction and Register Control for CHERI Capabilities",
+      "publisher": "International Conference on Availability, Reliability and Security (ARES 2025)",
+      "releaseDate": "2025-08-11",
+      "website": "https://doi.org/10.1007/978-3-032-00627-1_8",
+      "summary": "Moritz Waser, Lukas Lamster, David Schrammel, Martin Unterguggenberger, and Stefan Mangard"
+    },
+    {
+      "name": "Cryptographic Least Privilege Enforcement for Scalable Memory Isolation",
+      "publisher": "IEEE International Symposium on Hardware Oriented Security and Trust (HOST 2025)",
+      "releaseDate": "2025-05-05",
+      "website": "https://tugraz.elsevierpure.com/ws/portalfiles/portal/91400481/Cryptographic_Least_Privilege_Enforcement.pdf",
+      "summary": "Martin Unterguggenberger, David Schrammel, Lukas Maar, Lukas Lamster, Vedad Hadžić, and Stefan Mangard"
+    },
+    {
+      "name": "Defects-in-Depth: Analyzing the Integration of Effective Defenses against One-Day Exploits in Android Kernels",
+      "publisher": "33rd USENIX Security Symposium (USENIX Security 2024)",
+      "releaseDate": "2024-08-14",
+      "website": "https://www.usenix.org/conference/usenixsecurity24/presentation/maar-defects",
+      "summary": "Lukas Maar, Florian Draschbacher, Lukas Lamster, and Stefan Mangard"
+    },
+    {
+      "name": "Voodoo: Memory Tagging, Authenticated Encryption, and Error Correction through MAGIC",
+      "publisher": "33rd USENIX Security Symposium (USENIX Security 2024)",
+      "releaseDate": "2024-08-14",
+      "website": "https://www.usenix.org/conference/usenixsecurity24/presentation/lamster",
+      "summary": "Lukas Lamster, Martin Unterguggenberger, David Schrammel, and Stefan Mangard"
+    },
+    {
+      "name": "TME-Box: Scalable In-Process Isolation through Intel TME-MK Memory Encryption",
+      "publisher": "arXiv preprint arXiv:2407.10740",
+      "releaseDate": "2024-07-15",
+      "website": "https://arxiv.org/abs/2407.10740",
+      "summary": "Martin Unterguggenberger, Lukas Lamster, David Schrammel, Martin Schwarzl, and Stefan Mangard"
+    },
+    {
+      "name": "Memory Tagging using Cryptographic Integrity on Commodity x86 CPUs",
+      "publisher": "IEEE European Symposium on Security and Privacy (EuroS&P 2024)",
+      "releaseDate": "2024-07-08",
+      "website": "https://tugraz.elsevierpure.com/ws/portalfiles/portal/83984040/integritag.pdf",
+      "summary": "David Schrammel, Martin Unterguggenberger, Lukas Lamster, Salmin Sultana, Karanvir Grewal, Michael LeMay, David M. Durham, and Stefan Mangard"
+    },
+    {
+      "name": "Cryptographically Enforced Memory Safety",
+      "publisher": "ACM SIGSAC Conference on Computer and Communications Security (CCS 2023)",
+      "releaseDate": "2023-11-26",
+      "website": "https://tugraz.elsevierpure.com/ws/portalfiles/portal/74107547/Cryptographically_Enforced_Memory_Safety.pdf",
+      "summary": "Martin Unterguggenberger, David Schrammel, Lukas Lamster, Pascal Nasahl, and Stefan Mangard"
+    },
+    {
+      "name": "HashTag: Hash-based Integrity Protection for Tagged Architectures",
+      "publisher": "32nd USENIX Security Symposium (USENIX Security 2023)",
+      "releaseDate": "2023-08-09",
+      "website": "https://www.usenix.org/conference/usenixsecurity23/presentation/lamster",
+      "summary": "Lukas Lamster, Martin Unterguggenberger, David Schrammel, and Stefan Mangard"
+    },
+    {
+      "name": "SPEAR-V: Secure and Practical Enclave Architecture for RISC-V",
+      "publisher": "ACM ASIA Conference on Computer and Communications Security (AsiaCCS 2023)",
+      "releaseDate": "2023-07-10",
+      "website": "https://tugraz.elsevierpure.com/ws/portalfiles/portal/58764488/spearv.pdf",
+      "summary": "David Schrammel, Moritz Waser, Lukas Lamster, Martin Unterguggenberger, and Stefan Mangard"
+    },
+    {
+      "name": "Multi-Tag: A Hardware-Software Co-Design for Memory Safety Based on Multi-Granular Memory Tagging",
+      "publisher": "ACM ASIA Conference on Computer and Communications Security (AsiaCCS 2023)",
+      "releaseDate": "2023-07-10",
+      "website": "https://tugraz.elsevierpure.com/ws/portalfiles/portal/60390380/multi_tag.pdf",
+      "summary": "Martin Unterguggenberger, David Schrammel, Pascal Nasahl, Robert Schilling, Lukas Lamster, and Stefan Mangard"
+    },
+    {
+      "name": "CSI:Rowhammer – Cryptographic Security and Integrity against Rowhammer",
+      "publisher": "IEEE Symposium on Security and Privacy (S&P 2023)",
+      "releaseDate": "2023-05-22",
+      "website": "https://tugraz.elsevierpure.com/ws/portalfiles/portal/54029997/csirowhammer.pdf",
+      "summary": "Jonas Juffinger, Lukas Lamster, Andreas Kogler, Maria Eichlseder, Moritz Lipp, and Daniel Gruss"
+    },
+    {
+      "name": "A Signature-Based Gröbner Basis Algorithm with Tail-Reduced Reductors (M5GB)",
+      "publisher": "arXiv preprint arXiv:2208.00844",
+      "releaseDate": "2022-08-01",
+      "website": "https://arxiv.org/abs/2208.00844",
+      "summary": "Manuel Hauke, Lukas Lamster, Reinhard Lüftenegger, and Christian Rechberger"
+    },
+    {
+      "name": "Nethammer: Inducing Rowhammer Faults through Network Requests",
+      "publisher": "IEEE European Symposium on Security and Privacy Workshops (EuroS&PW 2020)",
+      "releaseDate": "2020-09-07",
+      "website": "https://arxiv.org/abs/1805.04956",
+      "summary": "Moritz Lipp, Michael Schwarz, Lukas Raab, Lukas Lamster, Misiker Tadesse Aga, Clémentine Maurice, and Daniel Gruss"
+    }
+  ],
+  "presentations": [
+    {
+      "name": "WaitWatcher & WaitGuard: Detecting Flush-Based Cache Side-Channels Through Spurious Wakeups",
+      "event": "30th European Symposium on Research in Computer Security (ESORICS 2025)",
+      "date": "2025-09-22",
+      "location": "Toulouse, France",
+      "description": "Paper presentation"
+    },
+    {
+      "name": "FatPTE: Expanding Page Table Entries for Security",
+      "event": "20th International Conference on Availability, Reliability and Security (ARES 2025)",
+      "date": "2025-08-11",
+      "location": "Ghent, Belgium",
+      "description": "Paper presentation"
+    },
+    {
+      "name": "Voodoo: Memory Tagging, Authenticated Encryption, and Error Correction through MAGIC",
+      "event": "33rd USENIX Security Symposium (USENIX Security 2024)",
+      "date": "2024-08-14",
+      "location": "Philadelphia, PA, USA",
+      "description": "Paper presentation"
+    },
+    {
+      "name": "HashTag: Hash-based Integrity Protection for Tagged Architectures",
+      "event": "32nd USENIX Security Symposium (USENIX Security 2023)",
+      "date": "2023-08-09",
+      "location": "Anaheim, CA, USA",
+      "description": "Paper presentation"
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Secure System Architecture (Lecture and Practicals)",
+      "institution": "Graz University of Technology",
+      "date": "2025-present",
+      "role": "Lecturer and Teaching Assistant",
+      "description": "Approx. 40 students per year; memory tagging, pointer authentication, trusted computing, confidential virtual machines."
+    },
+    {
+      "course": "Information Security (Practicals)",
+      "institution": "Graz University of Technology",
+      "date": "2022-present",
+      "role": "Teaching Assistant",
+      "description": "Approx. 400 students per year; system security part with CTF-style binary exploitation tasks."
+    },
+    {
+      "course": "Computer Organization and Networks (Practicals)",
+      "institution": "Graz University of Technology",
+      "date": "2022-present",
+      "role": "Teaching Assistant",
+      "description": "Approx. 500 students per year; SystemVerilog hardware design, state machines, hardware extensions, RISC-V assembly."
+    }
+  ],
+  "portfolio": []
+}
